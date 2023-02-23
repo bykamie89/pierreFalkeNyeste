@@ -1,0 +1,65 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#headerImage{
+    background-image:url("img/pierre.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#pierresFamePic{
+    background-image:url("img/pierre-2.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#tyndFilm{
+    background-image:url("img/tynd-film.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#skillevej{
+    background-image:url("img/over-out-ilm.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#glitch{
+    background-image:url("img/glitch.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#cannon{
+    background-image:url("img/canon-eos-300-gammel-film.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#lomo{
+    background-image:url("img/lomo-smena-17.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.customGradientWeb{
+    background-image: url("img/Vector-web.svg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+.customRotatedGradientWeb{
+    background-image: url("img/Vector-rotated.svg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.customGradientMobile{
+    background-image: url("img/Vector.svg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+

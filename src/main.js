@@ -3,9 +3,9 @@ import './style.css';
 import { animate, stagger, inView, scroll, timeline } from 'motion';
 
 inView('.textinviewleft', () => {
-  animate('.textinviewleft', { x: [-2000, 0] }, { duration: 1 });
+  animate('.textinviewleft', { x: [-2000, 0] }, { duration: 2 });
 });
 
 inView('.textinviewright', () => {
-  animate('.textinviewright', { x: [2000, 0] }, { duration: 1 });
+  animate('.textinviewright', { x: [2000, 0] }, { duration: 2 });
 });

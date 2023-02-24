@@ -18,6 +18,7 @@ module.exports = {
       fontSize: {
         h1SizeMobile: '48.83px',
         h1SizeWeb: '120px',
+        h1SizeWebForside: '108px',
         h2SizeMobile: '31.25px',
         h2SizeWeb: '36px',
         h2SizeWebQuote: '55px',

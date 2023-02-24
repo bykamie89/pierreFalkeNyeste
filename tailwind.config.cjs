@@ -31,6 +31,10 @@ module.exports = {
       padding: {
         outerPadding: '3rem',
       },
+
+      dropShadow: {
+        customShadow: '0 20px 16px rgba(78, 13, 218, 100%)',
+      },
     },
   },
   plugins: [require('@tailwindcss/typography'), require('@tailwindcss/forms')],
